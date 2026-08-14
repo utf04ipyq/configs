@@ -1,17 +1,13 @@
 # configs
 
-Personal configuration files and setup notes.
+Personal configuration files and dotfiles.
 
 ## Contents
 
-- Dotfiles for shell, editors, and tools
-- Installation scripts (coming soon)
-- Notes on environment setup
+- Shell settings
+- Editor configs
+- Git aliases
 
 ## Usage
 
-Clone and symlink or copy files as needed. See individual folders for details.
-
-## License
-
-MIT
+Clone and symlink as needed. See individual files for comments.
